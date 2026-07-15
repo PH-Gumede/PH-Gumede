@@ -1,6 +1,6 @@
 # 💫 About Me:
 Computer Science graduate and front-end–focused developer specializing in modern, design-driven web applications. I build performant, accessible interfaces using HTML, CSS, JavaScript, and Three.js supported by strong programming fundamentals in C++, C, and Python.<br><br>I am passionate about crafting visually striking, high-quality user experiences inspired by award-winning web design, while maintaining clean architecture, scalability, and maintainability. Known for discipline, attention to detail, and a commitment to continuous improvement, I aim to deliver production-ready code that balances aesthetics with engineering rigor.<br><br>Focus: Front-end engineering · Interactive UI · Performance · Design-centric development<br>Status: Open to opportunities and collaboration<br>
-
+Portfolio site: https://phila-gumede.vercel.app/<br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phgumede1@gmail.com) 
